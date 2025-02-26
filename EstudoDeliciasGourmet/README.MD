@@ -1,4 +1,4 @@
-##Estudo de caso: Sistema da "Delícias Gourmet".
+#Estudo de caso: Sistema da "Delícias Gourmet".
 
 
  Em uma indústria alimentícia chamada "Delícias Gourmet", o controle de materiais é um processo-chave para garantir a qualidade e a eficiência dos produtos finais. Nesta história, vamos explorar como diferentes atores desempenham funções importantes em seus respectivos setores, interagindo e colaborando para manter o sistema de controle de materiais funcionando sem problemas.
