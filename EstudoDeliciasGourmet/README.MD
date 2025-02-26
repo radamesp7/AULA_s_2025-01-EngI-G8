@@ -8,3 +8,39 @@ A história começa com João, o gerente de compras, que é responsável por adq
 Maria, a supervisora de estoque, trabalha em conjunto com João. Ela é responsável por gerenciar o armazenamento dos materiais e garantir que todos os itens estejam devidamente organizados e estocados. Quando os ingredientes e materiais chegam ao armazém, Maria confere e verifica se tudo está em conformidade com os pedidos feitos por João.
 
 Dentro da fábrica, Pedro, o coordenador de produção, coordena a utilização dos ingredientes e materiais no processo de fabricação. Ele colabora com Maria para garantir que os itens necessários sejam entregues no momento certo e na quantidade adequada. Pedro também trabalha com os líderes de cada linha de produção para planejar e otimizar a utilização dos materiais.
+
+Os substantivos são:
+Indústria
+Alimentícia
+Controle
+Materiais
+Processo-chave
+Qualidade
+Eficiência
+Produtos
+História
+Atores
+Funções
+Setores
+Sistema
+João
+Gerente
+Compras
+Ingredientes
+Produção
+Fornecedores
+Preços
+Custos
+Maria
+Supervisora
+Estoque
+Armazenamento
+Itens
+Armazém
+Pedidos
+Fábrica
+Pedro
+Coordenador
+Fabricação
+Líderes
+Linha
