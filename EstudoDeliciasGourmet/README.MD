@@ -44,3 +44,8 @@ Coordenador
 Fabricação
 Líderes
 Linha
+
+ATORES
+Gerente de Compras -> Adquirir Ingredientes/Materiais
+supervisora de estoque -> gerenciar o armazenamento dos materiais
+coordenador de produção ->  coordena a utilização dos ingredientes e materiais
